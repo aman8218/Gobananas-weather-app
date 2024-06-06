@@ -1,4 +1,4 @@
-# GoBananas App
+# GoBananas Weather App
 
 GoBananas is a simple React application that fetches data from a public API (OpenWeatherMap) and displays it in a user-friendly format. The application uses Material-UI for styling and provides a search feature to filter and display weather information based on user input.
 
@@ -13,7 +13,7 @@ GoBananas is a simple React application that fetches data from a public API (Ope
 
 ## Project Structure
 
-gobananas-app/
+gobananas-weather-app/
 ├── node_modules/
 ├── public/
 │ ├── index.html
